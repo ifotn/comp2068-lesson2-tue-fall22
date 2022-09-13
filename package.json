@@ -1,0 +1,26 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closedFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifotn/comp2068-lesson2-tue-fall22.git"
+  },
+  "keywords": [
+    "npm",
+    "closures"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifotn/comp2068-lesson2-tue-fall22/issues"
+  },
+  "homepage": "https://github.com/ifotn/comp2068-lesson2-tue-fall22#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
